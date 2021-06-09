@@ -10,7 +10,7 @@ OWNER_ID = 818390061
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [123,456,789,1249577098]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = "https://mm.mohan.workers.dev/0:/Clonebot2021/"
+INDEX_URL = "https://mm.mohan.workers.dev/1:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
